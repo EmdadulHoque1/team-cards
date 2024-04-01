@@ -30,11 +30,7 @@ font-family: 'Roboto', sans-serif;
     justify-content: center;
     gap: 20px;
     padding-top: 50px;
- 
-    
-     
-     
-}
+ }
  
 .team-cart-img{
     text-align: center;
@@ -45,13 +41,7 @@ font-family: 'Roboto', sans-serif;
      width: 200px;
      height: 200px;
     border-radius: 50%;
-     
-
-   
-  
-    
-   
-}
+     }
 .container{
     max-width: 1300px;
     margin: 0 auto;
@@ -63,11 +53,7 @@ font-family: 'Roboto', sans-serif;
   margin-top: 30px;
   position: relative;
   box-shadow: 5px 5px 5px gray;
-   
- 
-    
-    
-}
+   }
 .team-short-tittle{
     margin-top: 40px;
     
